@@ -1,0 +1,7 @@
+{
+  "name": "WholeP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
