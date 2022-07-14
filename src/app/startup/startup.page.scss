@@ -1,0 +1,37 @@
+.main-page {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(#C04848, #480048);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.content {
+  padding: 0 80px;
+  text-align: center;
+  font-family: calibri;
+
+  h1 {
+    font-size: 3rem;
+    color: #f8f8f8;
+    margin: 0px;
+    letter-spacing: 2px;
+  }
+
+  p {
+    color: rgba(217, 217, 217, 1);
+    margin: 0px;
+    font-size: 1.2rem;
+  }
+}
+
+.buttons-container {
+  padding: 0 80px;
+  position: absolute;
+  bottom: 80px;
+  width: 100%;
+  text-align: center;
+}
